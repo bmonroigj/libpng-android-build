@@ -13,6 +13,7 @@ This script cross-compiles **libpng library** for Android (armeabi-v7a, arm64-v8
 - Android NDK r22+
 - curl
 - make
+- zlib (Optional. See how to build zlib for Android [here](https://github.com/bmonroigj/zlib-android-build))
 
 ### Android Arch Supported:
 
